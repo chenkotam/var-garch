@@ -1,1 +1,1 @@
-# var-garch
+# Value at Risk via GARCH
