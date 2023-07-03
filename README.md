@@ -4,8 +4,13 @@ The following figure shows an example of computing out-of-sample VaR using GARCH
 
 ![var_plot](gph/var.png)
 
+
+### Performance Example:
+
 <br>
 
-| Badge | Name | How to get | Needed amount | 
+| PPS | Violation Number | QS | Hit Percentage | 
 | :-: | :-: | :-: | :-: |
+| -2.641489 | 14 | 0.000489 | 0.015152 |
+
 <br>
