@@ -7,5 +7,5 @@ The following figure shows an example of computing out-of-sample VaR using GARCH
 <br>
 
 | Badge | Name | How to get | Needed amount | 
-
+| :-: | :-: | :-: | :-: |
 <br>
