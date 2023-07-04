@@ -26,7 +26,7 @@ $$
 * QS stands for quantile score (Taylor, 2019), where $q_{t,\alpha}$ is the $\alpha$-VaR forecast of $y_t$, conditional on $y_{1:t-1}$. The smaller the quantile score, the better the VaR forecast.
 
 $$
-QS = \frac{1}{T_{test}} \sum_{D_{test}} (\alpha - I_{y_{t} \leq q_{t,\alpha}}) (y_t - q_{t,\alpha}),
+QS = \frac{1}{T_{test}} \sum_{D_{test}} (\alpha - I_{y_{t} \leq q_{t,\alpha}}) (y_t - q_{t,\alpha}).
 $$
 
 * Hit percentage is defined as the percentage of $y_t$ in the test data that is below its $\alpha$-VaR forecast. The hit percentage is expected to be close to $\alpha$.
