@@ -31,6 +31,7 @@ $$
 
 * Hit percentage is defined as the percentage of $y_t$ in the test data that is below its $\alpha$-VaR forecast. The hit percentage is expected to be close to $\alpha$.
 
+
 ### Bibliography
 
 Taylor, J. W. (2019). Forecasting value at risk and expected shortfall using a semiparametric approach based on the asymmetric laplace distribution. _Journal of Business & Economic Statistics_, 37(1):121–133.
